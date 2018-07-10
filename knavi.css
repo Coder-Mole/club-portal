@@ -18,12 +18,12 @@
 .nav a.level1-a:hover,
 .nav a.level1-a:focus,
 .nav a.level1-a:active
-{margin-top:200px; top:-200px; color:#c00; outline:0;}
+{margin-top:200px; top:-200px; color:strong red; outline:0;}
 
 .nav ul a:hover,
 .nav ul a:focus,
 .nav ul a:active
-{margin-top:200px; color:#c00; outline:0;}
+{margin-top:200px; color:strong red; outline:0;}
 
 .two {top:25px;}
 .three {top:50px;}
@@ -53,7 +53,7 @@
 	top:-9px;
 	position:absolute;
 	z-index:100;
-	background:#888;
+	background:dark grey;
 	-webkit-box-shadow: 0px 0px 20px rgba(0, 0, 0, 1);
 	-moz-box-shadow: 0px 0px 20px rgba(0, 0, 0, 1);
 	-o-box-shadow: 0px 0px 20px rgba(0, 0, 0, 1);
@@ -93,18 +93,18 @@ border-radius: 0 0 10px 10px;
 transition: all 0.2s ease-in-out;
 
 }
-ul.menu li a.red {background:#b8860b;}
-ul.menu li a.orange {background:#b8860b;}
-ul.menu li a.yellow {background:#b8860b;}
-ul.menu li a.green {background:#b8860b;}
-ul.menu li a.blue {background:#b8860b;}
-ul.menu li a.indigo {background:#b8860b;}
-ul.menu li a.violet {background:#b8860b;}
+ul.menu li a.red {background:dark goldenrod;}
+ul.menu li a.orange {background:dark goldenrod;}
+ul.menu li a.yellow {background:dark goldenrod;}
+ul.menu li a.green {background:dark goldenrod;}
+ul.menu li a.blue {background:dark goldenrod;}
+ul.menu li a.indigo {background:dark goldenrod;}
+ul.menu li a.violet {background:dark goldenrod;}
 
-ul.menu li a:hover {background:#aaa; color:#fff; padding:10px 10px 0 10px;}
+ul.menu li a:hover {background:grey; color:white; padding:10px 10px 0 10px;}
 
 ul.menu li a.red:hover {
-	background:#c00;
+	background:strong red;
 }
 ul.menu li a.orange:hover {background:orange;}
 ul.menu li a.yellow:hover {background:yellow;}
@@ -125,7 +125,7 @@ ul.menu li a.violet:hover {background:violet;}
 	clear: both;
 }
 
-.menuHolder2 .shadow {width:10px; height:90%; top:5%; left:-9px; position:absolute; z-index:100; background:#888;
+.menuHolder2 .shadow {width:10px; height:90%; top:5%; left:-9px; position:absolute; z-index:100; background:dark grey;
 -webkit-box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.9);
 -moz-box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.9);
 -o-box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.9);
@@ -144,7 +144,7 @@ ul.menu2 {
 
 ul.menu2 li {margin:5px 0 0 0;}
 
-ul.menu2 li a {background:#aaa; color:#ddd; padding:0 15px; width:140px; display:block; text-decoration:none;
+ul.menu2 li a {background:grey; color:very light grey; padding:0 15px; width:140px; display:block; text-decoration:none;
 -webkit-box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
 -moz-box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
 -o-box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
@@ -162,15 +162,15 @@ border-radius:0 10px 10px 0;
 transition: all 0.3s ease-in-out;
 }
 
-ul.menu2 li a.red {background:#b8860b;}
-ul.menu2 li a.orange {background:#b8860b;}
-ul.menu2 li a.yellow {background:#b8860b;}
-ul.menu2 li a.green {background:#b8860b;}
-ul.menu2 li a.blue {background:#b8860b;}
-ul.menu2 li a.indigo {background:#b8860b;}
-ul.menu2 li a.violet {background:#b8860b;}
+ul.menu2 li a.red {background:dark goldenrod;}
+ul.menu2 li a.orange {background:dark goldenrod;}
+ul.menu2 li a.yellow {background:dark goldenrod;}
+ul.menu2 li a.green {background:dark goldenrod;}
+ul.menu2 li a.blue {background:dark goldenrod;}
+ul.menu2 li a.indigo {background:dark goldenrod;}
+ul.menu2 li a.violet {background:dark goldenrod;}
 
-ul.menu2 li a:hover {background:#aaa; color:#fff; padding:0 15px 0 40px;}
+ul.menu2 li a:hover {background:grey; color:white; padding:0 15px 0 40px;}
 
 ul.menu2 li a.red:hover {background:red;}
 ul.menu2 li a.orange:hover {background:orange;}
