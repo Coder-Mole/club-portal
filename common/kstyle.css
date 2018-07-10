@@ -221,6 +221,7 @@ ul.thumb li img.hover {
 	float: left;
 	text-align: left;
 	font-size: 10px;
+	font-color: black;
 	padding: 4px 4px 4px 4px;
 }
 .designer {
@@ -228,6 +229,7 @@ ul.thumb li img.hover {
 	float: right;
 	text-align: left;
 	font-size: 10px;
+	font-color: black;
 	padding: 4px 4px 4px 4px;
 }
 /*Layout and Design (end)*/
