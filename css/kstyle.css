@@ -180,11 +180,12 @@ ul.thumb li img.hover {
 }
 .centreText1
 {
-	text-align: center;
+	font-family: Domo;
+	font-size: 24px;
+	font-color: black;
+	text-align: left;
 	display: block;
 	padding: 10px 10px 5px 10px;
-	font-size: 24px;
-	font-family: Domo;
 }
 .centreText2
 {
