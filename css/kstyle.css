@@ -91,7 +91,7 @@ ul.thumb li img.hover {
 }
 .leftText {
 	font-family: Playball-Regular;
-	font-size: 16px;
+	font-size: 18px;
 	letter-spacing: -1px;
 }
 .span {
@@ -142,7 +142,7 @@ ul.thumb li img.hover {
 }
 .content {
 	font-family: Tahoma;
-	font-size: 12px;
+	font-size: 14px;
 	color: black;
 	position: relative;
 	float: left;
@@ -154,7 +154,7 @@ ul.thumb li img.hover {
 }
 .main-content {
 	font-family: Tahoma;
-	font-size: 12px;
+	font-size: 14px;
 	color: black;
 	width: 860px;
 	margin-bottom: -7px;
@@ -186,14 +186,14 @@ ul.thumb li img.hover {
 	text-align: center;
 	display: block;
 	padding: 10px 10px 5px 10px;
-	font-size: 12px;
+	font-size: 14px;
 }
 .centreImage
 {
 	text-align: center;
 	display: block;
 	padding: 10px 10px 5px 10px;
-	font-size: 12px;
+	font-size: 14px;
 }
 .address-text {
     float: left;
