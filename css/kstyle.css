@@ -69,7 +69,7 @@ ul.thumb li img.hover {
 	background-color: white;
 	height: 127px;
 	display: inline-block;
-	background-image: url(https://coder-mole.github.io/club-portal/common/rskclogo.png);
+	background-image: url(https://coder-mole.github.io/club-portal/images/rskclogo.png);
 	clear: both;
 }
 .titleHolder {
@@ -79,8 +79,8 @@ ul.thumb li img.hover {
 	height: 40px;
 	background-color: white;
 	margin: 9px 0px 0px 0px;
-    padding: 10px 0px 0px 0px;
-    display: inline-block;
+  padding: 10px 0px 0px 0px;
+  display: inline-block;
 	clear: none;
 	text-align: center;
 }
@@ -120,7 +120,7 @@ ul.thumb li img.hover {
 	position: relative;
 	width: 1090px;
 	float: left;
-    	color: black;
+  color: black;
 	background-color: white;
 	margin: 5px 0px 0px 0px;
 	padding: 5px 5px 5px 5px;
@@ -196,7 +196,7 @@ ul.thumb li img.hover {
 	font-size: 14px;
 }
 .address-text {
-    float: left;
+  float: left;
 	position: relative;
 	width: auto;
 }
