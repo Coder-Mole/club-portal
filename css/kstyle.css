@@ -94,9 +94,19 @@ ul.thumb li img.hover {
 	font-size: 40px;
 	letter-spacing: -1px;
 }
-.leftText {
-	font-family: Playball-Regular;
+.left-headText1 {
+	font-family: San-Serif;
 	font-size: 18px;
+	letter-spacing: -1px;
+}
+.left-headText2 {
+	font-family: San-Serif;
+	font-size: 16px;
+	letter-spacing: -1px;
+}
+.leftText {
+	font-family: San-Serif;
+	font-size: 14px;
 	letter-spacing: -1px;
 }
 .span {
