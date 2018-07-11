@@ -142,7 +142,7 @@ ul.thumb li img.hover {
 }
 .content {
 	font-family: Tahoma;
-	font-size: 14px;
+	font-size: 12px;
 	color: black;
 	position: relative;
 	float: left;
@@ -154,7 +154,7 @@ ul.thumb li img.hover {
 }
 .main-content {
 	font-family: Tahoma;
-	font-size: 14px;
+	font-size: 12px;
 	color: black;
 	width: 860px;
 	margin-bottom: -7px;
