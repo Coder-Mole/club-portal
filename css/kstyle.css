@@ -24,7 +24,7 @@ ul.thumb li img {
 	top: 5px;
 }
 ul.thumb li img.hover {
-	background:url(file:///C|/Users/Patrick/Desktop/thumb_bg.png) no-repeat center center;
+	background:url(file:thumb_bg.png) no-repeat center center;
 	border: none;
 }
 /*Hover Images (end)*/
@@ -79,8 +79,8 @@ ul.thumb li img.hover {
 	height: 40px;
 	background-color: white;
 	margin: 9px 0px 0px 0px;
-  padding: 10px 0px 0px 0px;
-  display: inline-block;
+	padding: 10px 0px 0px 0px;
+	display: inline-block;
 	clear: none;
 	text-align: center;
 }
@@ -120,7 +120,7 @@ ul.thumb li img.hover {
 	position: relative;
 	width: 1090px;
 	float: left;
-  color: black;
+	color: black;
 	background-color: white;
 	margin: 5px 0px 0px 0px;
 	padding: 5px 5px 5px 5px;
@@ -179,7 +179,7 @@ ul.thumb li img.hover {
 	display: block;
 	padding: 10px 10px 5px 10px;
 	font-size: 24px;
-	font-family: Playball-Regular;
+	font-family: SansSerif;
 }
 .centreText2
 {
