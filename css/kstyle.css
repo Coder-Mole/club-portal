@@ -64,7 +64,7 @@ ul.thumb li img.hover {
 #logo {
 	margin: 9px 5px 0px 0px;
 	width: 190px;
-	position: centre;
+	position: relative;
 	float: left;
 	background-color: white;
 	height: 127px;
@@ -170,7 +170,7 @@ ul.thumb li img.hover {
 .gold-text {
 	color: #B8860B;
 }
-#container .content .main-content .centre strong {
+#container .content .main-content .centre {
 	font-size: 30px;
 }
 .centreText1
