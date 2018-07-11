@@ -32,13 +32,13 @@ ul.thumb li img.hover {
 /*Fonts (start)*/
 @font-face {
 	font-family: 'Playball-Regular';
-	src: url('font/Playball-Regular.ttf');
-	src: local('Playball-Regular'), local('Playball-Regular'), url('font/Playball-Regular.ttf') format('truetype');
+	src: url('https://coder-mole.github.io/club-portal/fonts/Playball-Regular.ttf');
+	src: local('Playball-Regular'), local('Playball-Regular'), url('https://coder-mole.github.io/club-portal/fonts/Playball-Regular.ttf') format('truetype');
 }
 @font-face {
 	font-family: 'Albatross';
 	src: url('font/Albatross.ttf');
-	src: local('Albatross'), local('Albatross'), url('font/Albatross.ttf') format('truetype');
+	src: local('Albatross'), local('Albatross'), url('https://coder-mole.github.io/club-portal/fonts/Albatross.ttf') format('truetype');
 }
 /*Fonts (end)*/
 
