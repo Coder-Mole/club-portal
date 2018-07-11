@@ -37,8 +37,13 @@ ul.thumb li img.hover {
 }
 @font-face {
 	font-family: 'Albatross';
-	src: url('font/Albatross.ttf');
+	src: url('https://coder-mole.github.io/club-portal/fonts/Albatross.ttf');
 	src: local('Albatross'), local('Albatross'), url('https://coder-mole.github.io/club-portal/fonts/Albatross.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Domo';
+	src: url('https://coder-mole.github.io/club-portal/fonts/DOMOAN__.TTF.ttf');
+	src: local('Domo'), local('Domo'), url('https://coder-mole.github.io/club-portal/fonts/DOMOAN__.TTF') format('truetype');
 }
 /*Fonts (end)*/
 
@@ -179,7 +184,7 @@ ul.thumb li img.hover {
 	display: block;
 	padding: 10px 10px 5px 10px;
 	font-size: 24px;
-	font-family: Sans-Serif;
+	font-family: Domo;
 }
 .centreText2
 {
