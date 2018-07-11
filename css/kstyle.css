@@ -89,6 +89,11 @@ ul.thumb li img.hover {
 	font-size: 40px;
 	letter-spacing: -1px;
 }
+.leftText {
+	font-family: Playball-Regular;
+	font-size: 16px;
+	letter-spacing: -1px;
+}
 .span {
 	color: #B8860B;
 }
