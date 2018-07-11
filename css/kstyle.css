@@ -181,9 +181,9 @@ ul.thumb li img.hover {
 .centreText1
 {
 	font-family: Domo;
-	font-size: 24px;
+	font-size: 28px;
 	font-color: black;
-	text-align: left;
+	text-align: centre;
 	display: block;
 	padding: 10px 10px 5px 10px;
 }
@@ -193,6 +193,15 @@ ul.thumb li img.hover {
 	display: block;
 	padding: 10px 10px 5px 10px;
 	font-size: 14px;
+}
+.left-headText1
+{
+	font-family: Domo;
+	font-size: 28px;
+	font-color: black;
+	text-align: left;
+	display: block;
+	padding: 10px 10px 5px 10px;
 }
 .centreImage
 {
