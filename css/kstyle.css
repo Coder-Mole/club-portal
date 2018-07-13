@@ -96,14 +96,19 @@ ul.thumb li img.hover {
 }
 .left-headText1 {
 	font-size: 18px;
+	text-align: left;
 	letter-spacing: -1px;
+	display: block;
+	padding: 0px 0px 0px 0px;
 }
 .left-headText2 {
 	font-size: 16px;
+	text-align: left;
 	letter-spacing: -1px;
 }
 .leftText {
 	font-size: 14px;
+	text-align: left;
 	letter-spacing: -1px;
 }
 .span {
@@ -192,13 +197,6 @@ ul.thumb li img.hover {
 {
 	font-size: 18px;
 	text-align: center;
-	display: block;
-	padding: 10px 10px 5px 10px;
-}
-.left-headText1
-{
-	font-size: 28px;
-	text-align: left;
 	display: block;
 	padding: 10px 10px 5px 10px;
 }
