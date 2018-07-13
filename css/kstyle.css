@@ -156,9 +156,7 @@ ul.thumb li img.hover {
 	float: left;
 }
 .content {
-	font-family: "Times New Roman", Times, Serif;
 	font-size: 14px;
-	font-color: black;
 	position: relative;
 	float: left;
 	clear: both;
@@ -168,9 +166,7 @@ ul.thumb li img.hover {
 	margin: 5px 0px 5px 0px;
 }
 .main-content {
-	font-family: "Times New Roman", Times, Serif;
 	font-size: 14px;
-	font-color: black;
 	width: 860px;
 	margin-bottom: -7px;
 	position: relative;
@@ -223,7 +219,7 @@ ul.thumb li img.hover {
 	font-size: 14px;
 }
 .address-text {
-  float: left;
+  	float: left;
 	position: relative;
 	width: auto;
 }
@@ -238,6 +234,7 @@ ul.thumb li img.hover {
 	padding: 6;
 }
 .base-bar {
+	font-size: 16px;
 	text-align: center;
 	clear: both;
 	position: relative;
@@ -245,7 +242,6 @@ ul.thumb li img.hover {
 	float: left;
 	background-color: #FFFFFF;
 	margin-bottom: 5px;
-	font-size: 16px;
 	color: black;
 	padding: 2px 0px 2px 0px;
 }
