@@ -165,6 +165,9 @@ ul.thumb li img.hover {
 	margin: 5px 0px 5px 0px;
 }
 .main-content {
+	font-family: "Times New Roman", Times, Serif;
+	font-size: 14px;
+	font-color: black;
 	width: 860px;
 	margin-bottom: -7px;
 	position: relative;
