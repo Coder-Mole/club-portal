@@ -95,17 +95,14 @@ ul.thumb li img.hover {
 	letter-spacing: -1px;
 }
 .left-headText1 {
-	font-family: "Times New Roman", Times, Serif;
 	font-size: 18px;
 	letter-spacing: -1px;
 }
 .left-headText2 {
-	font-family: "Times New Roman", Times, Serif;
 	font-size: 16px;
 	letter-spacing: -1px;
 }
 .leftText {
-	font-family: "Times New Roman", Times, Serif;
 	font-size: 14px;
 	letter-spacing: -1px;
 }
@@ -186,16 +183,13 @@ ul.thumb li img.hover {
 }
 .centreText1
 {
-	font-family: "Times New Roman", Times, Serif;
 	font-size: 28px;
-	font-color: black;
 	text-align: centre;
 	display: block;
 	padding: 10px 10px 5px 10px;
 }
 .centreText2
 {
-	font-family: "Times New Roman", Times, Serif;
 	font-size: 18px;
 	text-align: center;
 	display: block;
@@ -204,9 +198,7 @@ ul.thumb li img.hover {
 }
 .left-headText1
 {
-	font-family: "Times New Roman", Times, Serif;
 	font-size: 28px;
-	font-color: black;
 	text-align: left;
 	display: block;
 	padding: 10px 10px 5px 10px;
