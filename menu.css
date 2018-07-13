@@ -1,6 +1,7 @@
-
+<!--Menus and links-->
 
 <!--TOP NAVIGATION (start)-->
+.menuTop {
 <div id="top-nav-holder">
     <div class="menuHolder">
   <ul class="menu">
@@ -16,9 +17,12 @@
   </ul>
 <div class="shadow"></div>
 </div>
+}
 <!--TOP NAVIGATION (end)-->
 
+
 <!--LEFT NAVIGATION (start)-->
+.menuLeft {
 <div class="menuHolder2">
 <ul class="menu2">
 <li><a href="aaa.html" class="red">AAA1</a></li>
@@ -33,4 +37,5 @@
 </ul>
 <div class="shadow"></div>
 </div>
+}    
 <!--LEFT NAVIGATION (end)-->
