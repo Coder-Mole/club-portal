@@ -54,8 +54,8 @@ a:active {
 <!--TOP NAVIGATION (start)-->
 <div id="top-nav-holder">
 	<script>
-	$(function(){
-	$("#top-nav-holder").load(#nav.menutop.html");
+	$get("menutop.html", function(data){
+	$("#top-nav-holder").replacewith(data);
 	});
 	</script>
 </div>
@@ -72,10 +72,10 @@ a:active {
 <div class="content">
 
 <!--LEFT NAVIGATION (start)-->
-<div id="leftnavholer">
+<div id="leftnavholder">
 	<script>
-	$(function(){
-	$("#leftnavholder").load(#nav.menuleft.html");
+	$get("menuleft.html", function(data){
+	$("#leftnavholder").replacewith(data);
 	});
 	</script>
 </div>
