@@ -194,7 +194,6 @@ ul.thumb li img.hover {
 	text-align: center;
 	display: block;
 	padding: 10px 10px 5px 10px;
-	font-size: 14px;
 }
 .left-headText1
 {
@@ -205,10 +204,10 @@ ul.thumb li img.hover {
 }
 .centreImage
 {
+	font-size: 14px;
 	text-align: center;
 	display: block;
 	padding: 10px 10px 5px 10px;
-	font-size: 14px;
 }
 .address-text {
   	float: left;
