@@ -95,17 +95,17 @@ ul.thumb li img.hover {
 	letter-spacing: -1px;
 }
 .left-headText1 {
-	font-family: San-Serif;
+	font-family: "Times New Roman", Times, Serif;
 	font-size: 18px;
 	letter-spacing: -1px;
 }
 .left-headText2 {
-	font-family: San-Serif;
+	font-family: "Times New Roman", Times, Serif;
 	font-size: 16px;
 	letter-spacing: -1px;
 }
 .leftText {
-	font-family: San-Serif;
+	font-family: "Times New Roman", Times, Serif;
 	font-size: 14px;
 	letter-spacing: -1px;
 }
@@ -156,9 +156,6 @@ ul.thumb li img.hover {
 	float: left;
 }
 .content {
-	font-family: Tahoma;
-	font-size: 14px;
-	color: black;
 	position: relative;
 	float: left;
 	clear: both;
@@ -168,9 +165,6 @@ ul.thumb li img.hover {
 	margin: 5px 0px 5px 0px;
 }
 .main-content {
-	font-family: Tahoma;
-	font-size: 14px;
-	color: black;
 	width: 860px;
 	margin-bottom: -7px;
 	position: relative;
@@ -190,7 +184,7 @@ ul.thumb li img.hover {
 }
 .centreText1
 {
-	font-family: San-Serif;
+	font-family: "Times New Roman", Times, Serif;
 	font-size: 28px;
 	font-color: black;
 	text-align: centre;
@@ -199,6 +193,8 @@ ul.thumb li img.hover {
 }
 .centreText2
 {
+	font-family: "Times New Roman", Times, Serif;
+	font-size: 18px;
 	text-align: center;
 	display: block;
 	padding: 10px 10px 5px 10px;
@@ -206,7 +202,7 @@ ul.thumb li img.hover {
 }
 .left-headText1
 {
-	font-family: San-Serif;
+	font-family: "Times New Roman", Times, Serif;
 	font-size: 28px;
 	font-color: black;
 	text-align: left;
