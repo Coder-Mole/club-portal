@@ -47,6 +47,117 @@ ul.thumb li img.hover {
 }
 /*Fonts (end)*/
 
+/*Main Menu (start)*/
+.boxTopLeft {
+	position: relative;
+	float: left;
+	width: 200px;
+	height: 200px;
+	background-color: white;
+	margin: 9px 0px 0px 0px;
+	padding: 10px 0px 0px 0px;
+	display: inline-block;
+	clear: none;
+	text-align: center;
+}
+.boxTopCentre {
+	position: relative;
+	float: left;
+	width: 200px;
+	height: 200px;
+	background-color: white;
+	margin: 9px 0px 0px 0px;
+	padding: 10px 0px 0px 0px;
+	display: inline-block;
+	clear: none;
+	text-align: center;
+}
+.boxTopRight {
+	position: relative;
+	float: left;
+	width: 200px;
+	height: 200px;
+	background-color: white;
+	margin: 9px 0px 0px 0px;
+	padding: 10px 0px 0px 0px;
+	display: inline-block;
+	clear: none;
+	text-align: center;
+}
+.boxCentreLeft {
+	position: relative;
+	float: left;
+	width: 200px;
+	height: 200px;
+	background-color: white;
+	margin: 9px 0px 0px 0px;
+	padding: 10px 0px 0px 0px;
+	display: inline-block;
+	clear: none;
+	text-align: center;
+}
+.boxCentre {
+	position: relative;
+	float: left;
+	width: 200px;
+	height: 200px;
+	background-color: white;
+	margin: 9px 0px 0px 0px;
+	padding: 10px 0px 0px 0px;
+	display: inline-block;
+	clear: none;
+	text-align: center;
+}
+.boxCentreRight {
+	position: relative;
+	float: left;
+	width: 200px;
+	height: 200px;
+	background-color: white;
+	margin: 9px 0px 0px 0px;
+	padding: 10px 0px 0px 0px;
+	display: inline-block;
+	clear: none;
+	text-align: center;
+}
+.boxBottomLeft {
+	position: relative;
+	float: left;
+	width: 200px;
+	height: 200px;
+	background-color: white;
+	margin: 9px 0px 0px 0px;
+	padding: 10px 0px 0px 0px;
+	display: inline-block;
+	clear: none;
+	text-align: center;
+}
+.boxBottomCentre {
+	position: relative;
+	float: left;
+	width: 200px;
+	height: 200px;
+	background-color: white;
+	margin: 9px 0px 0px 0px;
+	padding: 10px 0px 0px 0px;
+	display: inline-block;
+	clear: none;
+	text-align: center;
+}
+.boxBottomRight {
+	position: relative;
+	float: left;
+	width: 200px;
+	height: 200px;
+	background-color: white;
+	margin: 9px 0px 0px 0px;
+	padding: 10px 0px 0px 0px;
+	display: inline-block;
+	clear: none;
+	text-align: center;
+}
+/*Main Menu (end)*/
+
 /*Layout and Design (start)*/
 .left
 {
