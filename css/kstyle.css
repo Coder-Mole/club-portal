@@ -280,6 +280,9 @@ ul.thumb li img.hover {
 }
 .main-content {
 	font-size: 14px;
+	text-align: left;
+	letter-spacing: -1px;
+	display: block;
 	width: 860px;
 	margin-bottom: -7px;
 	position: relative;
