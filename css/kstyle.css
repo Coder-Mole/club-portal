@@ -155,7 +155,9 @@ ul.thumb li img.hover {
 	float: left;
 }
 .content {
+	font-family: Tahoma;
 	font-size: 14px;
+	color: black;
 	position: relative;
 	float: left;
 	clear: both;
@@ -165,9 +167,9 @@ ul.thumb li img.hover {
 	margin: 5px 0px 5px 0px;
 }
 .main-content {
+	font-family: Tahoma;
 	font-size: 14px;
 	text-align: left;
-	letter-spacing: -1px;
 	display: block;
 	width: 860px;
 	margin-bottom: -7px;
@@ -188,6 +190,7 @@ ul.thumb li img.hover {
 }
 .centreText1
 {
+	font-family: Tahoma;
 	font-size: 28px;
 	text-align: centre;
 	display: block;
@@ -195,6 +198,7 @@ ul.thumb li img.hover {
 }
 .centreText2
 {
+	font-family: Tahoma;
 	font-size: 18px;
 	text-align: center;
 	display: block;
