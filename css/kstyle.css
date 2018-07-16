@@ -58,10 +58,10 @@ ul.thumb li img.hover {
 }
 #container
 {
-	width: 1100px;
+	width: 1000px;
 	margin: 0 auto;
 	text-color: black;
-	min-width: 1100px;
+	min-width: 1000px;
 	text-align: center;
 	color: white;
 	font-size: large;
@@ -80,7 +80,7 @@ ul.thumb li img.hover {
 .titleHolder {
 	position: relative;
 	float: left;
-	width: 905px;
+	width: 805px;
 	height: 40px;
 	background-color: white;
 	margin: 9px 0px 0px 0px;
@@ -129,13 +129,13 @@ ul.thumb li img.hover {
 	display: inline-block;
 	height: 77px;
 	background-color: white;
-	width: 905px;
+	width: 805px;
 }
 #info-bar {
 	text-align: left;
 	clear: both;
 	position: relative;
-	width: 1090px;
+	width: 990px;
 	float: left;
 	color: black;
 	background-color: white;
@@ -162,7 +162,7 @@ ul.thumb li img.hover {
 	position: relative;
 	float: left;
 	clear: both;
-	width: 1100px;
+	width: 1000px;
 	height: auto;
 	background-color: white;
 	margin: 5px 0px 5px 0px;
@@ -172,7 +172,7 @@ ul.thumb li img.hover {
 	text-align: left;
 	letter-spacing: -1px;
 	display: block;
-	width: 860px;
+	width: 760px;
 	margin-bottom: -7px;
 	position: relative;
 	float: right;
@@ -230,7 +230,7 @@ ul.thumb li img.hover {
 	text-align: center;
 	clear: both;
 	position: relative;
-	width: 1100px;
+	width: 1000px;
 	float: left;
 	background-color: #FFFFFF;
 	margin-bottom: 5px;
