@@ -63,7 +63,7 @@ ul.thumb li img.hover {
 	text-color: black;
 	min-width: 1100px;
 	text-align: center;
-	color: white;
+	color: red; /* was white*/
 }
 #logo {
 	margin: 9px 5px 0px 0px;
