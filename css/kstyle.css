@@ -63,7 +63,7 @@ ul.thumb li img.hover {
 	text-color: black;
 	min-width: 1100px;
 	text-align: center;
-	color: yellow; /* was white*/
+	color: white;
 }
 #logo {
 	margin: 9px 5px 0px 0px;
@@ -123,9 +123,9 @@ ul.thumb li img.hover {
 	float: left;
 	clear: none;
 	display: inline-block;
+	width: 905px;
 	height: 77px;
 	background-color: white;
-	width: 905px;
 }
 #info-bar {
 	text-align: left;
@@ -162,7 +162,7 @@ ul.thumb li img.hover {
 	clear: both;
 	width: 1100px;
 	height: auto;
-	background-color: red; /*was white*/
+	background-color: white;
 	margin: 5px 0px 5px 0px;
 }
 .main-content {
