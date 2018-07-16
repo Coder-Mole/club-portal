@@ -173,7 +173,7 @@ ul.thumb li img.hover {
 	width: 860px; /*was */
 	margin-bottom: -7px;
 	position: relative;
-	float: right;
+	float: left; /*was right*/
 	text-align: left;
 	height: 100%;
 	color: #2f4f4f;
