@@ -46,6 +46,14 @@ ul.thumb li img.hover {
 	src: local('Domo'), local('Domo'), url('https://coder-mole.github.io/club-portal/fonts/DOMOAN__.TTF') format('truetype');
 }
 /*Fonts (end)*/
+
+/*info (start)*/
+}
+.tel
+{
+  content: "07813 051768;
+}
+/*info (end)*/
 	
 /*Layout and Design (start)*/
 .left
