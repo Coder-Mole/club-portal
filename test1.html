@@ -17,26 +17,21 @@ END TEST-->
 <style type="text/css">
 
 body {
-  margin: 40px;
-	div-align: center;
+  	margin: 40px;
 	text-align: center;
  	background-image: url(https://coder-mole.github.io/club-portal/images/background.jpg);
 	background-repeat: repeat-x;
 }
 
-#container {
+.wrapper {
+   	display: grid;
+    	grid-gap: 10px;
 	width: 900px;
 	height: 900px;
-	position: relative;
-}
-	
-.wrapper {
-    display: grid;
-    grid-gap: 10px;
         grid-template-columns: 210px 210px 220px 210px;
 	grid-template-rows: 210px 210px 210px 210px;
         color: #444;
-	position: absolute;
+	position: relative;
     }
 
     .box {
@@ -106,8 +101,6 @@ body {
 	
 <body>
 
-<div id="container">
-
 <div class="wrapper">
   <div class="box a">A</div>
   <div class="box b">B</div>
@@ -124,6 +117,5 @@ body {
   <div class="box m">M</div>
 </div>
 	
-</div>
 </body>
 </html>
