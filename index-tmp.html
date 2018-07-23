@@ -16,169 +16,48 @@ END TEST-->
 
 <style type="text/css">
 body {
-	margin: 0;
-	padding: 0;
-	text-align: center;
-	background-image: url(https://coder-mole.github.io/club-portal/images/background.jpg);
-	background-repeat: repeat-x;
+  margin: 40px;
 }
-body,td,th {
+
+.box {
+  background-color: #444;
+  color: #fff;
+  border-radius: 5px;
+  padding: 20px;
+  font-size: 150%;
 }
-a:link {
-	color: #B8860B;
-	text-decoration: none;
+
+.box:nth-child(even) {
+  background-color: #ccc;
+  color: #000;
 }
-a:hover {
-	color: #C0C0C0;
-	text-decoration: underline;
+
+.wrapper {
+  width: 600px;
+  display: grid;
+  grid-gap: 10px;
+  grid-template-columns: repeat(6, 100px);
+  grid-template-rows: 100px 100px 100px;
+  grid-auto-flow: column;
 }
-a:visited {
-	text-decoration: none;
-	color: #B8860B;
-}
-a:active {
-	text-decoration: none;
-}
-	
-/*Main Menu (start)*/
-.main_Container {
-	overflow: auto;
-	width: 1100px;
-	height: 800px;
-	float: left;
-	margin: 10px;
-	text-align: left;
-}
-.boxTopLeft {
-/*	position: relative;*/
-	float: left;
-	width: 250px;
-	height: 250px;
-	background-color: white;
-	margin: 5px;
-	padding: 2px;
-	display: inline-block;
-/*	clear: left;*/
-	text-align: center;
-}
-.boxTopCentre {
-/*	position: relative;*/
-	float: left;
-	width: 250px;
-	height: 250px;
-	background-color: red;
-	margin: 5px;
-	padding: 2px;
-	display: inline-block;
-/*	clear: both;*/
-	text-align: center;
-}
-.boxTopRight {
-/*	position: relative;*/
-        float: left;
-	width: 250px;
-	height: 250px;
-	background-color: yellow;
-	margin: 5px;
-	padding: 2px;
-	display: inline-block;
-/*	clear: right;*/
-	text-align: center;
-}
-.boxCentreLeft {
-/*	position: relative;*/
-	float: left;
-	width: 250px;
-	height: 250px;
-	background-color: orange;
-	margin: 5px;
-	padding: 2px;
-	display: inline-block;
-/*	clear: both;*/
-	text-align: center;
-}
-.boxCentre {
-/*	position: relative;*/
-	float: left;
-	width: 250px;
-	height: 250px;
-	background-color: green;
-	margin: 5px;
-	padding: 2px;
-	display: inline-block;
-/*	clear: both;*/
-	text-align: center;
-}
-.boxCentreRight {
-/*	position: relative;*/
-	float: left;
-	width: 250px;
-	height: 250px;
-	background-color: blue;
-	margin: 5px;
-	padding: 2px;
-	display: inline-block;
-/*	clear: both;*/
-	text-align: center;
-}
-.boxBottomLeft {
-/*	position: relative;*/
-	float: left;
-	width: 250px;
-	height: 250px;
-	background-color: purple;
-	margin: 5px;
-	padding: 2px;
-	display: inline-block;
-/*	clear: both;*/
-	text-align: center;
-}
-.boxBottomCentre {
-/*	position: relative;*/
-	float: left;
-	width: 250px;
-	height: 250px;
-	background-color: pink;
-	margin: 5px;
-	padding: 2px;
-	display: inline-block;
-/*	clear: both;*/
-	text-align: center;
-}
-.boxBottomRight {
-/*	position: relative;*/
-	float: left;
-	width: 250px;
-	height: 250px;
-	background-color: red;
-	margin: 5px;
-	padding: 2px;
-	display: inline-block;
-/*	clear: both;*/
-	text-align: center;
-}
-/*Main Menu (end)*/
 </style>
-
-</head>
-
-<body>
-		
-<div class="main_Container"> <!--box holder (start)-->
-<!--Cubes (start)-->
-	<span class="boxTopLeft"><p>BOX 1</p></span>
-	<span class="boxTopCentre><p>BOX 2</p></span>
-	<span class="boxTopRight><p>BOX 3</p></span>
-		
-		<div>
-		<span class="boxCentreLeft>BOX 4</span><span class="boxCentre>BOX 5</span><span class="boxCentreRight>BOX 6</span>
-		</div>
-		
-		<div>
-		<span class="boxBottomLeft>BOX 7</span><span class="boxBottomCentre>BOX 8</span><span class="boxBottomRight>BOX 9</span>
-		</div>
-<!--Cubes (end)-->
-</div> <!--box holder (end)-->
 	
+<body>
+
+<div class="wrapper">
+  <div class="box">1</div>
+  <div class="box">2</div>
+  <div class="box">3</div>
+  <div class="box">4</div>
+  <div class="box">5</div>
+  <div class="box">6</div>
+  <div class="box">7</div>
+  <div class="box">8</div>
+  <div class="box">9</div>
+  <div class="box">10</div>
+  <div class="box">11</div>
+  <div class="box">12</div>
+</div>
+
 </body>
 </html>
