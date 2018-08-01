@@ -213,14 +213,16 @@ ul.thumb li img.hover {
 	padding: 10px 10px 5px 10px;
 }
 .address-text {
-  	float: left;
+/*  	float: left;*/
 	text-align: left;
-	position: relative;
+	color: #000;
+/*	position: relative;*/
 }
 .contact-info {
-	float: right;
+/*	float: right;*/
 	text-align: left;
-	position: inherit;
+	color: #000;
+/*	position: inherit;*/
 }
 .base-bar {
 	font-size: 16px;
