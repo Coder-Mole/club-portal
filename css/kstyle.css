@@ -90,8 +90,7 @@ ul.thumb li img.hover {
 	width: 960px;
 	height: 40px;
 	background-color: #fff;
-	margin: 0px;
-	padding: 5px 5px 5px 5px;
+/*	padding: 5px 5px 5px 5px;*/
 	display: inline-block;
 	clear: none;
 	text-align: left;
@@ -103,7 +102,7 @@ ul.thumb li img.hover {
 	font-size: 28px;
 	text-align: left;
 	display: block;
-	padding: 0px 0px 0px 0px;
+	padding: 0px;
 }
 .left-headText2 {
 	font-size: 20px;
@@ -127,21 +126,19 @@ ul.thumb li img.hover {
 #top-nav-holder {
 	position: relative;
 	float: left;
-	clear: none;
+	clear: both;
 	display: inline-block;
 	width: 960px;
 	height: 77px;
 	background-color: #fff;
 }
 #info-bar {
-	text-align: left;
-	clear: none;
 	position: relative;
-	width: 960px;
 	float: left;
-	color: #000;
+	clear: both;
+	display: inline-block;
+	width: 960px;
 	background-color: #fff;
-	margin: 0px 0px 0px 0px;
 	padding: 5px 5px 5px 5px;
 }
 .navbar-left {
@@ -217,17 +214,13 @@ ul.thumb li img.hover {
 }
 .address-text {
   	float: left;
-	text-align:left;
+	text-align: left;
 	position: relative;
-	width: auto;
-	height: auto;
 }
 .contact-info {
 	float: right;
 	text-align: left;
 	position: inherit;
-	width: auto;
-	height: auto;
 }
 .base-bar {
 	font-size: 16px;
