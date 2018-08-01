@@ -245,13 +245,13 @@ ul.thumb li img.hover {
   	float: left;
 	text-align: left;
 	color: #000;
-/*	position: relative;*/
+	position: relative;
 }
 .contact-info {
 	float: right;
 	text-align: left;
 	color: #000;
-/*	position: inherit;*/
+	position: inherit;
 }
 .base-bar {
 	font-size: 16px;
