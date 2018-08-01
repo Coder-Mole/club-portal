@@ -186,7 +186,7 @@ ul.thumb li img.hover {
 /*	font-family: Tahoma;*/
 /*	font-size: 14px;*/
 /*	color: #000;*/
-	background-color: #fff;
+/*	background-color: #fff;*/
 	position: relative;
 	float: left;
 /*	clear: both;*/
@@ -202,9 +202,9 @@ ul.thumb li img.hover {
 	margin-bottom: -7px;
 	position: relative;
 	float: left; /*was right*/
-	text-align: left;
 	height: auto;
 	color: #000; /*was #2f4f4f - Dark Slate Grey*/
+	background-color: #fff;
 	margin-left: auto;
 	padding: 0px 5px 40px 5px;
 	clear: none;
