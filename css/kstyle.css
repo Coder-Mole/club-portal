@@ -73,6 +73,7 @@ ul.thumb li img.hover {
 	float: left;
 	clear: none;
 	display: inline;
+	height: 60px;
 	width: 960px;
 	background-color: #000;
 	padding: 4px 4px 4px 4px;
