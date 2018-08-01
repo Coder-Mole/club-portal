@@ -150,17 +150,17 @@ ul.thumb li img.hover {
 	width: 220px;
 	float: left;
 }
-.left-content {
+/*.left-content {
 	margin: 0px;
 	padding: 0px;
 	width: 220px;
 	float: left;
-}
-.right-content {
+}*/
+/*.right-content {
 	margin: 0px;
 	width: 715px;
 	float: left;
-}
+}*/
 .content {
 /*	font-family: Tahoma;*/
 /*	font-size: 14px;*/
@@ -168,7 +168,7 @@ ul.thumb li img.hover {
 	position: relative;
 	float: left;
 /*	clear: both;*/
-	width: 400px;
+	width: 960px;
 	height: auto;
 }
 .main-content {
@@ -176,7 +176,7 @@ ul.thumb li img.hover {
 	font-size: 14px;
 	text-align: left;
 	display: block;
-	width: 400px; /*was */
+	width: 740px; /*was */
 	margin-bottom: -7px;
 	position: relative;
 	float: left; /*was right*/
@@ -185,7 +185,7 @@ ul.thumb li img.hover {
 	color: #000; /*was #2f4f4f - Dark Slate Grey*/
 	margin-left: auto;
 	padding: 0px 5px 40px 5px;
-	clear: right;
+	clear: none;
 }
 .gold-text {
 	color: #B8860B;
