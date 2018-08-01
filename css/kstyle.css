@@ -91,7 +91,7 @@ ul.thumb li img.hover {
 	height: 40px;
 	background-color: #fff;
 	margin: 0px 0px 0px 0px;
-	padding: 5px 0px 5px 0px;
+	padding: 5px 5px 5px 5px;
 	display: inline-block;
 	clear: none;
 	text-align: left;
@@ -143,7 +143,7 @@ ul.thumb li img.hover {
 	float: left;
 	color: #000;
 	background-color: #fff;
-	margin: 5px 0px 0px 0px;
+	margin: 0px 0px 0px 0px;
 	padding: 5px 5px 5px 5px;
 }
 .navbar-left {
@@ -153,12 +153,12 @@ ul.thumb li img.hover {
 .left-content {
 	margin: 0px;
 	padding: 0px;
-	width: 204px;
+	width: 245px;
 	float: left;
 }
 .right-content {
 	margin: 0px;
-	width: 756px;
+	width: 715px;
 	float: left;
 }
 .content {
@@ -168,7 +168,7 @@ ul.thumb li img.hover {
 	position: relative;
 	float: left;
 	clear: both;
-	width: 756px;
+	width: 715px;
 	height: auto;
 	background-color: #fff;
 	margin: 5px 0px 5px 0px;
@@ -178,7 +178,7 @@ ul.thumb li img.hover {
 	font-size: 14px;
 	text-align: left;
 	display: block;
-	width: 756px; /*was */
+	width: 715px; /*was */
 	margin-bottom: -7px;
 	position: relative;
 	float: left; /*was right*/
