@@ -75,6 +75,7 @@ ul.thumb li img.hover {
 	display: inline-block;
 	width: 960px;
 	background-color: #000;
+	padding: 4px 4px 4px 4px;
 }
 #topBarLeft {
 	position: relative;
