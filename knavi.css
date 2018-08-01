@@ -33,14 +33,13 @@
 .menuHolder {
 	height: inherit;
 	overflow: hidden;
-	width: 900;
+	width: 960px;
 	float: left;
 	top: 19px;
 	position: absolute;
-	width: 900px;
 	clear: both;
-	min-width: 900px;
-	max-width: 900px;
+	min-width: 960px;
+	max-width: 960px;
 }
 -----
 
@@ -69,7 +68,7 @@ ul.menu {
 	height: inherit;
 	position: static;
 	padding: 0px 0px 0px 35px;
-	width: 900px;
+	width: 960px;
 	clear: both;
 }
 
