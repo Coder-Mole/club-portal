@@ -66,6 +66,7 @@ ul.thumb li img.hover {
 	width: 960px;
 	margin: 0 auto;
 	min-width: 960px;
+	background-color: #fff;
 }
 #topBarLeft {
 	position: relative;
