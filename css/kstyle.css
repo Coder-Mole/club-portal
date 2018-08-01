@@ -90,7 +90,7 @@ ul.thumb li img.hover {
 	width: 960px;
 	height: 40px;
 	background-color: #fff;
-/*	padding: 5px 5px 5px 5px;*/
+	padding: 0px 5px 0px 5px;
 	display: inline-block;
 	clear: none;
 	text-align: left;
@@ -213,13 +213,13 @@ ul.thumb li img.hover {
 	padding: 10px 10px 5px 10px;
 }
 .address-text {
-/*  	float: left;*/
+  	float: left;
 	text-align: left;
 	color: #000;
 /*	position: relative;*/
 }
 .contact-info {
-/*	float: right;*/
+	float: right;
 	text-align: left;
 	color: #000;
 /*	position: inherit;*/
