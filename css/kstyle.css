@@ -65,17 +65,14 @@ ul.thumb li img.hover {
 #container{
 	width: 960px;
 	margin: 0 auto;
-	text-color: #000;
 	min-width: 960px;
-	text-align: center;
-	color: #fff;
 }
 #topBarLeft {
 	position: relative;
 	float: left;
 	clear: none;
 	display: inline-block;
-	width: 480px;
+	width: 320px;
 	text-align: left;
 	color: #fff;
 	background-color: #000;
@@ -85,7 +82,7 @@ ul.thumb li img.hover {
 	float: left;
 	clear: none;
 	display: inline-block;
-	width: 480px;
+	width: 320px;
 	text-align: center;
 	color: #fff;
 	background-color: #000;
@@ -96,7 +93,7 @@ ul.thumb li img.hover {
 	float: left;
 	clear: none;
 	display: inline-block;
-	width: 480px;
+	width: 320px;
 	text-align: right;
 	color: #fff;
 	background-color: #000;
