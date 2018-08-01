@@ -93,7 +93,7 @@ ul.thumb li img.hover {
 	margin: 0px 0px 0px 0px;
 	padding: 5px 5px 5px 5px;
 	display: inline-block;
-	clear: none;
+	clear: both;
 	text-align: left;
 }
 .titleText {
