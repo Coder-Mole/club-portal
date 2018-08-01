@@ -81,7 +81,7 @@ ul.thumb li img.hover {
 	position: relative;
 	float: left;
 	clear: none;
-	display: inline-block;
+	display: inline;
 	width: 320px;
 	text-align: left;
 	color: #fff;
@@ -91,7 +91,7 @@ ul.thumb li img.hover {
 	position: relative;
 	float: left;
 	clear: none;
-	display: inline-block;
+	display: inline;
 	width: 320px;
 	text-align: center;
 	color: #fff;
@@ -102,7 +102,7 @@ ul.thumb li img.hover {
 	position: relative;
 	float: left;
 	clear: none;
-	display: inline-block;
+	display: inline;
 	width: 320px;
 	text-align: right;
 	color: #fff;
