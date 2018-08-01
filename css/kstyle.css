@@ -90,16 +90,14 @@ ul.thumb li img.hover {
 	width: 960px;
 	height: 40px;
 	background-color: #fff;
-	margin: 0px 0px 0px 0px;
+	margin: 0px;
 	padding: 5px 5px 5px 5px;
 	display: inline-block;
 	clear: none;
 	text-align: left;
-}
-.titleText {
 	font-family: Playball-Regular;
 	font-size: 40px;
-	letter-spacing: -1px;
+	color:#B8860B;
 }
 .left-headText1 {
 	font-size: 28px;
