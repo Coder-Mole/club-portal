@@ -51,7 +51,7 @@ ul.thumb li img.hover {
 }
 .tel
 {
-  content: "07813 051768;
+  content: "07813 051768";
 }
 /*info (end)*/
 	
@@ -162,28 +162,26 @@ ul.thumb li img.hover {
 	float: left;
 }
 .content {
-	font-family: Tahoma;
-	font-size: 14px;
-	color: #000;
+/*	font-family: Tahoma;*/
+/*	font-size: 14px;*/
+/*	color: #000;*/
 	position: relative;
 	float: left;
-	clear: both;
-	width: 715px;
+/*	clear: both;*/
+	width: 400px;
 	height: auto;
-	background-color: #fff;
-	margin: 0px 0px 0px 0px;
 }
 .main-content {
 	font-family: Tahoma;
 	font-size: 14px;
 	text-align: left;
 	display: block;
-	width: 715px; /*was */
+	width: 400px; /*was */
 	margin-bottom: -7px;
 	position: relative;
 	float: left; /*was right*/
 	text-align: left;
-	height: 100%;
+	height: auto;
 	color: #000; /*was #2f4f4f - Dark Slate Grey*/
 	margin-left: auto;
 	padding: 0px 5px 40px 5px;
